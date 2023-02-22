@@ -1,0 +1,28 @@
+.body {
+  background: #121213;
+}
+.heading1 {
+  margin: auto;
+  background-color: #251212;
+  color: #f1f1f1;
+  padding: 20px;
+  text-align: center;
+}
+.heading {
+  margin: auto;
+  background-color: #251212;
+  color: #f1f1f1;
+  padding: 20px;
+  text-align: center;
+}
+.container.my-3 {
+  border: 1px solid rgb(29, 15, 15);
+  background-color: rgb(125, 172, 188);
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+.card-title {
+  border-color: black;
+}
